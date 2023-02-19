@@ -1,0 +1,18 @@
+# This is an example template for the env values expected by the application
+# Add the corresponding values to a `env` file in the project root
+APIKEY=
+AUTH_DOMAIN=
+DATABASE_URL=""
+PROJECT_ID=
+STORAGE_BUCKET=
+MESSAGING_SENDER_ID=
+APP_ID=
+MEASUREMENT_ID=
+DEBUG=false
+API_BASE_URL=
+
+DISTANCE_FACTOR=
+DELIVERY_CHARGE_PER_KM=
+CUSTOMER_SUPPORT_NO=
+SHOP_LAT=
+SHOP_LON=
